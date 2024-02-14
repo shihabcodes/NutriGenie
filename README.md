@@ -10,7 +10,7 @@ NutriGenie is a personal nutrition assistant application that allows users to an
 
 ## Screenshots
 
-![NutriGenie Screenshot](screenshot.png)
+![NutriGenie Screenshot](images/nutrigenie.png)
 
 
 ## Getting Started
